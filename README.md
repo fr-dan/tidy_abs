@@ -4,7 +4,7 @@ Tidy dataset formats of the Office for National Statistics' Annual Business Surv
 
 ## Code for replication
 
-```{r}
+```r
 
 pacman::p_load(openxlsx, janitor, here, magrittr, dplyr, usethis)
 
